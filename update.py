@@ -79,3 +79,4 @@ if user == 1:
 elif user==2:
     print('exit the program.........')
     os.system('exit')
+print("Thanks for using thi's tools")
