@@ -77,6 +77,6 @@ if user == 1:
     os.system('pkg install tar -y')
     os.system('pkg install kibi -y')
 elif user==2:
-    print('exit the program.........')
     os.system('exit')
+    print('exit the program.........')
 print("Thanks for using thi's tools")
