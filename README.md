@@ -1,5 +1,7 @@
+# Termux-setup
+This tool setup your Termux.
 
-## Deployment
+## how to install
 
 Install python && pip
 
