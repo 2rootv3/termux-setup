@@ -1,8 +1,33 @@
-# what does this tool do:
-1)Thes tool update your termux
 
-2)install all pkg
+## Deployment
 
-run it by : python update.py
+Install python && pip
 
-*sorry for any mistakes
+```bash
+  pkg isntall python3
+```
+```
+```bash
+  pkg install python3-pip
+```
+install the tool ⇓
+
+```bash
+ git clone https://github.com/Halal-AsHacker/termux-setup
+```
+Now ⇓
+
+```bash
+  cd termux-setup
+```
+Install the all requirement ⇓
+
+```bash
+  pip install -r requiremen.txt
+```
+At last ,Now  you can run the tool ⇓
+
+```bash
+  python update.py
+```
+
