@@ -8,7 +8,6 @@ Install python && pip
 ```bash
   pkg isntall python3
 ```
-```
 ```bash
   pkg install python3-pip
 ```
