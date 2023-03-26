@@ -14,7 +14,7 @@ Install python && pip
 install the tool ⇓
 
 ```bash
- git clone https://github.com/Halal-AsHacker/termux-setup
+ git clone https://github.com/2rootv3/termux-setup.git
 ```
 Now ⇓
 
