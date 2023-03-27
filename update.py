@@ -75,6 +75,7 @@ if user == 1:
     os.system('pkg install tar -y')
     os.system('pkg install kibi -y')
     os.system('pip install requests ')
+    os.system('pip install termcolor')
 elif user==2:
     os.system('exit')
     print('exit the program.........')
