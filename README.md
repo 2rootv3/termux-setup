@@ -2,6 +2,11 @@
 This tool setup your Termux.
 
 ## how to install
+Instll git
+
+```bash
+  pkg isntall git -y
+```
 
 Install python && pip
 
