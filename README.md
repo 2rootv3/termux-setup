@@ -2,6 +2,12 @@
 This tool setup your Termux.
 
 ## how to install
+Termux storage 
+
+```bash
+  termux-setup-storage
+```
+
 Instll git
 
 ```bash
