@@ -29,7 +29,7 @@ Install python && pip
 install the tool ⇓
 
 ```bash
- git clone https://github.com/2rootv3/termux-setup.git
+ git clone https://github.com/cyber-programer/termux-setup.git
 ```
 Now ⇓
 
